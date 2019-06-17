@@ -1,0 +1,90 @@
+.try-header {
+  width: 100%;
+  height: 100px;
+  background-color: #f0f0f0; }
+
+.try-header-main {
+  width: 1200px;
+  height: 100px;
+  margin: auto; }
+  .try-header-main .try-header-main-1 {
+    width: 7px;
+    height: 66px;
+    background-color: #f8572b;
+    margin-top: 24px;
+    display: inline-block; }
+  .try-header-main .try-header-main-2 {
+    width: 46px;
+    height: 62px;
+    margin-top: -57px;
+    margin-left: 15px;
+    font-size: 20px; }
+  .try-header-main .try-header-imgs {
+    width: 1050px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    float: right;
+    margin-top: -100px; }
+  .try-header-main .try-header-img {
+    width: 120px;
+    height: 100%; }
+    .try-header-main .try-header-img img {
+      margin-top: 21px;
+      margin-left: 40px; }
+    .try-header-main .try-header-img p {
+      color: #afaeaa;
+      text-align: center; }
+
+.try-container {
+  margin: auto;
+  width: 1200px;
+  display: flex;
+  justify-content: space-between; }
+  .try-container .try-container-left {
+    width: 840px;
+    margin-bottom: 75px; }
+    .try-container .try-container-left .try-container-left-1 {
+      width: 5px;
+      height: 31px;
+      background-color: #f8572b;
+      margin-top: 40px; }
+    .try-container .try-container-left .try-container-left-2 {
+      width: 100px;
+      height: 25px;
+      font-size: 20px;
+      margin-left: 10px;
+      margin-top: -27px; }
+    .try-container .try-container-left p {
+      line-height: 25px;
+      margin-top: 34px; }
+    .try-container .try-container-left img {
+      height: 415px;
+      margin-top: 35px; }
+  .try-container .try-container-right {
+    width: 324px; }
+    .try-container .try-container-right p {
+      color: #afaeaa;
+      margin-left: 5px;
+      line-height: 30px;
+      margin-top: 10px; }
+    .try-container .try-container-right .try-container-right-1 {
+      width: 7px;
+      height: 21px;
+      background-color: #f8572b;
+      margin-top: 18px; }
+    .try-container .try-container-right .try-container-right-2 {
+      width: 100px;
+      height: 25px;
+      font-size: 20px;
+      margin-left: 30px;
+      margin-top: -24px; }
+    .try-container .try-container-right input {
+      background-color: #fe5341;
+      color: #fffafd;
+      height: 50px;
+      width: 100%;
+      border: 0px;
+      margin-top: 30px; }
+
+/*# sourceMappingURL=try.css.map */

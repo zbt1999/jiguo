@@ -1,0 +1,64 @@
+.try {
+  width: 1200px;
+  height: 55px;
+  border: 1px solid #E8E8E8;
+  margin: auto; }
+  .try ul {
+    width: 650px;
+    height: 55px;
+    list-style: none;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 230px; }
+    .try ul li {
+      display: inline-block;
+      line-height: 55px;
+      color: #9c9398; }
+
+.try-main {
+  width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; }
+
+.try-main-1 {
+  width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; }
+
+.try-main-2 {
+  width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; }
+
+.try-main-3 {
+  width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; }
+
+.main-6 {
+  width: 1200px;
+  height: 22px;
+  margin: auto;
+  margin-top: 48px; }
+
+.main-6 > p {
+  color: #aba5a5;
+  text-align: center; }
+
+.try-main-4 {
+  width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; }
+
+/*# sourceMappingURL=tray.css.map */

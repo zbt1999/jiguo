@@ -1,0 +1,55 @@
+*{margin: 0;padding: 0;}
+.head{width: 1200px;height: 75px;margin: auto;}
+ul{height: 75px;list-style: none;float: left;}
+li{display: inline-block;line-height: 75px;float: left;}
+li a{text-decoration: none;padding: 40px;font-size: 20px;color: #32352a;}
+.head input{width: 55px;height: 31px;border: 1px solid #ff423c;background-color: #ffffff;color: #ff423c;}
+.head-1{float: right;margin-top: 20px;}
+.main{width: 100%;height: 300px;background: url(../img/original.jpg)no-repeat -270px 0px;background-size: 130% 100%;}
+.main1{width: 1200px;height: 300px;margin: auto;}
+.main1-1{width: 316px;height: 100%;float: right;}
+.he1{width: 99px;height: 37px;opacity: 1.5;background-color: #fad09e;float: left;margin-left: 54px;margin-top: 24px;color: #fef9f3;text-align: center;line-height: 37px;}
+.he2{width: 70px;height: 37px;opacity: 1.5;background-color: #fad09e;float: left;margin-left: 13px;margin-top: 24px;color: #fef9f3;text-align: center;line-height: 37px;}
+.he3{width: 57px;height: 37px;opacity: 1.5;background-color: #fad09e;float: left;margin-left: 13px;margin-top: 24px;color: #fef9f3;text-align: center;line-height: 37px;}
+.he4{height: 21px;color: #fef9f3;font-size: 18px;margin-top: 82px;}
+.main1-1 input{width: 244px;height: 50px;background-color: #fe5341;border: 0;float:right;margin-top: 21px;color: #fef9f3;font-size: 25px;}
+.main-1{width: 1200px;height: 385px;margin: auto;}
+.jt-1{margin-top: 190px;margin-left: -54px;float: left;}
+.jt-2{float: right;margin-top: 190px;margin-right: -54px;}
+.nav-1{width: 92px;height: 22px;margin-top: 25px;color: #4c4a4d;font-weight:bold;text-align: center;margin-left: -13px;}
+.zongtu{width: 1200px;display: flex;justify-content: space-between;}
+.tu{width: 239px;height: 288px;margin-top: 23px;border: 1px solid #E8E8E8;}
+.tu>p{text-align: center;}
+.sf{width: 43px;height: 25px;background-color: #ff5949;position: absolute;margin-left: 197px;color: #e5fcea;text-align: center;}
+.ty{width: 82px;height: 25px;background-color: #fff6c5;position: absolute;margin-left: 157px;color: #ddcc7a;text-align: center;}
+.t1{width: 55px;height: 27px;border: 1px solid #f47785;text-align: center;color: #f47785;margin-left: 58px;float: left;}
+.t2{width: 49px;height: 27px;border: 1px solid #f47785;text-align: center;color: #f47785;margin-left: 15px;float: left;}
+.t3{width: 100%;height: 27px;margin-top: 37px;}
+.t3>span:nth-child(1){color: #f47785;}
+.t4{width: 55px;height: 27px;border: 1px solid #70c75f;text-align: center;color: #70c75f;margin-left: 58px;float: left;}
+.t5{width: 49px;height: 27px;border: 1px solid #70c75f;text-align: center;color: #70c75f;margin-left: 15px;float: left;}
+.t6{width: 55px;height: 27px;border: 1px solid #cbcbcb;text-align: center;color: #cbcbcb;margin-left: 58px;float: left;}
+.t7{width: 49px;height: 27px;border: 1px solid #cbcbcb;text-align: center;color: #cbcbcb;margin-left: 15px;float: left;}
+.main-2{width: 1200px;margin: auto;}
+.nav-2{color: #ff8355;float: right;margin-top: -26px;}
+.zongtu1{width: 100%;display: flex;justify-content: space-between;flex-wrap: wrap;margin-top: 25px;}
+.tu1{width: 241px;height: 235px;border: 1px solid #E8E8E8;}
+.tu1 p{color: #9c9398;}
+.main-3{width: 1200px;height: 351px;margin: auto;}
+.zongtu2{width:100%;height: 233px;display: flex;justify-content: space-between;margin-top: 20px;}
+.tu2{width: 224px;height: 233px;border: 1px solid #E8E8E8;}
+.tu2 span{color: #9c9398;}
+.main-4{width: 1200px;margin: auto;}
+.zongtu3{width: 1200px;height: 1000px;display: flex;justify-content: space-between;flex-wrap: wrap;margin-top: 25px;}
+.tu3{width: 241px;height: 236px;border: 1px solid #E8E8E8;}
+.tu3 span{color: #9c9398;}
+.main-5{width: 1200px;height: 22px;margin: auto;margin-top: 48px;}
+.main-5>p{color: #ee8474;text-align: center;}
+.foot{width: 100%;height: 360px;background-color: #505050;}
+.foot-1{width: 1200px;height: 360px;margin: auto;}
+.ewm{width: 180px;height: 180px;float: left;margin-top: 40px;}
+.zi{height: 206px;width: 996px;float: left;margin-top: 40px;margin-left: 24px;display: flex;justify-content: space-between;}
+.ziti{width: 197px;height: 218px;}
+.ziti>p{color: #a9ab9e;text-align: left;}
+.ziti>span{text-align: left;color: #a9ab9e;}
+.xs{width: 49px;height: 49px;background-color: #e8e8e8;float: right;margin-top: -71px;margin-right: 171px;vertical-align: middle;display: table-cell;text-align: center;}

@@ -1,0 +1,73 @@
+.contain {
+  width: 1200px;
+  height: 515px;
+  border: 1px solid #E8E8E8;
+  margin: auto; }
+
+.contain-1 {
+  width: 7px;
+  height: 21px;
+  background-color: #f8572b;
+  margin-top: 18px; }
+
+.life {
+  width: 83px;
+  height: 25px;
+  font-size: 20px;
+  margin-left: 40px;
+  margin-top: -24px; }
+
+.lifetu {
+  width: 200px;
+  height: 149px; }
+
+.lifezt {
+  width: 1200px;
+  height: 149px;
+  display: flex;
+  margin-top: 20px; }
+
+.lifetu > p {
+  color: #c0bbb7;
+  margin-left: 50px;
+  margin-top: 20px; }
+
+.lifezt1 {
+  width: 400px;
+  height: 149px;
+  display: flex; }
+
+.lifezi {
+  width: 1200px;
+  height: 140px;
+  display: flex; }
+
+.lifeziti {
+  width: 200px;
+  height: 100%; }
+
+.huli {
+  width: 1200px;
+  height: 300px;
+  margin: auto;
+  border: 1px solid #E8E8E8;
+  margin-top: 36px; }
+
+.hl {
+  width: 600px;
+  height: 149px;
+  display: flex;
+  margin-top: 20px; }
+
+.hlzi {
+  width: 1200px;
+  height: 88px;
+  display: flex; }
+  .hlzi ul {
+    margin-left: 15px;
+    margin-top: -38px; }
+    .hlzi ul li {
+      margin: 36px;
+      color: #c0bbb7; }
+
+/*# sourceMappingURL=pl.css.map */
